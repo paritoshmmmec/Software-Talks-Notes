@@ -10,5 +10,7 @@ Famous peoples contains
   1) Dave Thomas
   2) Rich hickey
   3) Martin Fowler
+  4) Ken thompson
+  5)
 
 
