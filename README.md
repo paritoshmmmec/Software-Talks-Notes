@@ -6,5 +6,9 @@ This repository contains all the video and their abstract notes of famous people
 Also it contains my personnel notes on overall software state and rants.
 
 
+Famous peoples contains
+  1) Dave Thomas
+  2) Rich hickey
+  3) Martin Fowler
 
 
